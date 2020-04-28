@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QReader</string>
+    <string name="MainActivityClosed">Aplikacja zamknięta, dziękuje za korzystanie z niej . . .</string>
+    <string name="QRCodeActivityClosed">QRCodeActivity zamknięte</string>
+    <string name="noPermissionGrantedSorry">Uprawnienia</string>
+    <string name="scanBarcode">Wywołano integrator Zxing</string>
+    <string name="QRcodeActivityCancelled">Anulowano odczyt</string>
+
+</resources>
